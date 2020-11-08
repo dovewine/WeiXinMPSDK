@@ -16,16 +16,14 @@ Senparc.Weixin —— 微信 .NET SDK
 
 Senparc.Weixin SDK 是目前使用率最高的微信 .NET SDK，也是国内最受欢迎的 .NET 开源项目之一。
 
-自 2013 年起立项 6 年多来，我们一直保持着项目的持续更新，并将完整的源代码以及设计思想毫无保留地分享给大家，希望有更多的人可以从中受益，理解并传播开源的精神，一同助力中国开源事业！感恩一路上给我们提供帮助的朋友们！
+自 2013 年起立项 7 年多来，我们一直保持着项目的持续更新，并将完整的源代码以及设计思想毫无保留地分享给大家，希望有更多的人可以从中受益，理解并传播开源的精神，一同助力中国开源事业！感恩一路上给我们提供帮助的朋友们！
 
 如果你喜欢并希望我们继续优化这个项目，请给我们一个 ★Star ：)
 
 ## 公告
-> 🥇 .NET Core 3.0 [Senparc.Weixin SDK 源码](/src) 及 [Demo](/Samples/netcore3.0-mvc) 已发布！
-
->  :trophy: 《[2018-2019 年度盛派微信 SDK 优秀贡献者入围名单](https://github.com/JeffreySu/WeiXinMPSDK/issues/1584)》公布，请注意查看并登记信息 :smile:
-
->  :trophy: 【2019-2020 年度盛派微信 SDK 优秀贡献者】 入围名单统计将于 2020 年 2 月底截止，感谢所有贡献者！欢迎大家多多积累贡献！
+> 🍦 [file.api.weixin.qq.com 域名官方已停用（2020.0.15）](https://developers.weixin.qq.com/community/develop/doc/0002245dcdc8c06f36fa6a47d56400)，请及时更新到最新版本！
+>  :trophy: 《[2019-2020年盛派开发者社区优秀贡献者入围名单](https://github.com/JeffreySu/WeiXinMPSDK/issues/2197)》公布，请注意查看并登记信息，2020 年 6 月 30 日 10:24 AM 截止登记 :smile:<br />
+> 🥇 .NET Core 3.1 [Senparc.Weixin SDK 源码](/src) 及 [Demo](/Samples/netcore3.0-mvc) 已发布！
 
 
 <!-- _1. 为了将 Demo 和源代码隔离，并让大家更方便地找到 Demo，现已将 Senparc.Weixin.MP.Sample 等文件夹转移到 [/Samples/](Samples/) 文件夹下。_<br> -->
